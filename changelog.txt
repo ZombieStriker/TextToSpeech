@@ -1,0 +1,50 @@
+	Change Log
+ 	Plugin: TextToSpeech
+ 1.0.11
+ 	Added ability for players to read signs and books.
+ 	Restructured code
+ 	
+ 1.0.10
+ 	Updated updater
+ 	Changed class locations
+ 	Fixed speed configuration
+ 	
+ 1.0.9
+ 	Made speech timing configurable
+ 	
+ 1.0.8
+	Updated resouce link. Thanks bukkitdev!
+ 	
+ 1.0.7
+ 	Updated updater
+ 	
+1.0.6
+	Updated code for the new BukkitDev site	
+	Added changelog
+   Updated updater 
+	
+1.0.5
+    Added transition sounds. The voice should not dip out during certain sounds (like X , Z ,or H)
+    Added more words to the lang file
+    Added support for words ending in "er". 
+
+1.0.4
+    Added a lang file. If you want add new words, open the lang.txt file in the /plugins/TextToSpeech/ directory and add the word.
+    Fixed resourecepack for 1.11
+    Added some support for Italian. 
+
+1.0.3
+    Added new resource pack prompt. Use /tts get to get the resourcepack. 
+
+1.0.2
+    Fixed minor bugs. 
+
+1.0.1
+    Added more words
+    Fixed issue with error being thrown if you add an greater than sign ( > ) after setting the pitch (Now <test:8> will work)
+    Fixed issue with pitch being reset if another player with a different pitch types anything into chat. 
+
+1.0.0
+    Init post
+
+

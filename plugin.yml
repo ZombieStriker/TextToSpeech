@@ -1,0 +1,22 @@
+main: me.zombie_striker.tts.CoreTTS
+version: 1.0.11
+name: TextToSpeech
+commands:
+  tts:
+    description: text to speech
+    aliases: [texttospeech]
+permissions:
+   tts.*:
+     description: Gives access to all TTS commands
+     children:
+       tts.create: true
+       tts.join: true
+       tts.kick: true
+   tts.join:
+     description: Allows you create PixelPrinter images
+   tts.ban:
+     description: Allows you create PixelPrinter images
+   tts.create:
+     description: Allows you create PixelPrinter images
+author:
+   Zombie_Striker
